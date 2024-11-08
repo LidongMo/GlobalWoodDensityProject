@@ -9,6 +9,8 @@ https://doi.org/10.5281/zenodo.13331493
 Download the two folders, Data and Plots, from Zenodo:
 https://doi.org/10.5281/zenodo.14054077
 
+For authentication of assets in Google Earth Engine and for any files missing from the Data folder, please contact me.
+
 
 Cite this article:
 Mo, L., Crowther, T.W., Maynard, D.S. et al. The global distribution and drivers of wood density and their impact on forest carbon stocks. Nat Ecol Evol (2024). https://doi.org/10.1038/s41559-024-02564-9
