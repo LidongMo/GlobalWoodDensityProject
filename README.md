@@ -1,3 +1,5 @@
+Global wood density project
+
 This is the code repository for the Global Wood Density Project. 
 The associated paper was published in Nature Ecology & Evolution with the title: "The global distribution and drivers of wood density and their impact on forest carbon stocks".
 
